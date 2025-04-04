@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://michalsvento.github.io/UnNAFx/posts/abstract/</loc>
+    <lastmod>2025-04-04T23:19:05+02:00</lastmod>
+  </url><url>
+    <loc>https://michalsvento.github.io/UnNAFx/posts/</loc>
+    <lastmod>2025-04-04T23:19:05+02:00</lastmod>
+  </url><url>
+    <loc>https://michalsvento.github.io/UnNAFx/</loc>
+    <lastmod>2025-04-04T23:19:05+02:00</lastmod>
+  </url><url>
     <loc>https://michalsvento.github.io/UnNAFx/categories/</loc>
   </url><url>
     <loc>https://michalsvento.github.io/UnNAFx/tags/</loc>
-  </url><url>
-    <loc>https://michalsvento.github.io/UnNAFx/</loc>
   </url>
 </urlset>
