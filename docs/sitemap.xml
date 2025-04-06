@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/UnNAFx/posts/abstract/</loc>
+    <lastmod>2025-04-04T23:19:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/posts/clean/</loc>
+    <lastmod>2025-04-05T09:37:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/posts/light/</loc>
+    <lastmod>2025-04-05T09:37:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/posts/heavy/</loc>
+    <lastmod>2025-04-05T09:37:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/posts/</loc>
+    <lastmod>2025-04-05T09:37:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/</loc>
+    <lastmod>2025-04-05T09:37:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/UnNAFx/tags/</loc>
+  </url>
+</urlset>

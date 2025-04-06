@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UnNAFx</title>
+    <link>http://localhost:1313/UnNAFx/</link>
+    <description>Recent content on UnNAFx</description>
+    <image>
+      <title>UnNAFx</title>
+      <url>http://localhost:1313/UnNAFx/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/UnNAFx/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Apr 2025 09:37:42 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/UnNAFx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstract</title>
+      <link>http://localhost:1313/UnNAFx/posts/abstract/</link>
+      <pubDate>Fri, 04 Apr 2025 23:19:05 +0200</pubDate>
+      <guid>http://localhost:1313/UnNAFx/posts/abstract/</guid>
+      <description>&lt;p&gt;Accurately estimating nonlinear audio effects without access to paired input-output signals remains a challenging problem. This work studies unsupervised probabilistic approaches for solving this task.We introduce a method, novel for this application, based on diffusion generative models for blind system identification, enabling the estimation of unknown nonlinear effects using black- and gray-box models. This study compares this method with a previously proposed adversarial approach, analyzing the performance of both methods under different parameterizations of the effect operator and varying lengths of available effected recordings.
+Through experiments on guitar distortion effects, we show that the diffusion-based approach provides more stable results and is less sensitive to data availability, while the adversarial approach is superior at estimating more pronounced distortion effects.
+Our findings contribute to the robust unsupervised blind estimation of audio effects, demonstrating the potential of diffusion models for system identification in music technology.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Clean Distortion</title>
+      <link>http://localhost:1313/UnNAFx/posts/clean/</link>
+      <pubDate>Sat, 05 Apr 2025 09:37:42 +0200</pubDate>
+      <guid>http://localhost:1313/UnNAFx/posts/clean/</guid>
+      <description>Listening comparison for Clean distortion</description>
+    </item>
+    <item>
+      <title>Light Distortion</title>
+      <link>http://localhost:1313/UnNAFx/posts/light/</link>
+      <pubDate>Sat, 05 Apr 2025 09:37:42 +0200</pubDate>
+      <guid>http://localhost:1313/UnNAFx/posts/light/</guid>
+      <description>Listening comparison for Light distortion</description>
+    </item>
+    <item>
+      <title>Heavy Distortion</title>
+      <link>http://localhost:1313/UnNAFx/posts/heavy/</link>
+      <pubDate>Sat, 05 Apr 2025 09:37:42 +0200</pubDate>
+      <guid>http://localhost:1313/UnNAFx/posts/heavy/</guid>
+      <description>Listening comparison for Heavy distortion</description>
+    </item>
+  </channel>
+</rss>
