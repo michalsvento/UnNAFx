@@ -18,7 +18,9 @@
       <link>https://michalsvento.github.io/UnNAFx/posts/abstract/</link>
       <pubDate>Fri, 04 Apr 2025 23:19:05 +0200</pubDate>
       <guid>https://michalsvento.github.io/UnNAFx/posts/abstract/</guid>
-      <description>&lt;p&gt;Accurately estimating nonlinear audio effects without access to paired input-output signals remains a challenging problem. This work studies unsupervised probabilistic approaches for solving this task.We introduce a method, novel for this application, based on diffusion generative models for blind system identification, enabling the estimation of unknown nonlinear effects using black- and gray-box models. This study compares this method with a previously proposed adversarial approach, analyzing the performance of both methods under different parameterizations of the effect operator and varying lengths of available effected recordings.
+      <description>&lt;p&gt;Accurately estimating nonlinear audio effects without access to paired input-output signals remains a challenging problem.
+This work studies unsupervised probabilistic approaches for solving this task. We introduce a method, novel for this application, based on diffusion generative models for blind system identification, enabling the estimation of unknown nonlinear effects using black- and gray-box models.
+This study compares this method with a previously proposed adversarial approach, analyzing the performance of both methods under different parameterizations of the effect operator and varying lengths of available effected recordings.
 Through experiments on guitar distortion effects, we show that the diffusion-based approach provides more stable results and is less sensitive to data availability, while the adversarial approach is superior at estimating more pronounced distortion effects.
 Our findings contribute to the robust unsupervised blind estimation of audio effects, demonstrating the potential of diffusion models for system identification in music technology.&lt;/p&gt;</description>
     </item>
